@@ -1,4 +1,4 @@
-[v0.1.1](https://github.com/littleflute/David-Bowie/edit/master/README.md)
+[v0.1.2](https://github.com/littleflute/David-Bowie/edit/master/README.md)
 
 [Blackstar/cd](Blackstar/cd)
 
@@ -18,3 +18,6 @@
 
 [Five years 1969-1973/Pinups](Five years 1969-1973/Pinups)
 
+[Five years 1969-1973/Recall 1 cd1](Recall 1 cd1)
+
+[Five years 1969-1973/Recall 1 cd2](Recall 1 cd2)
