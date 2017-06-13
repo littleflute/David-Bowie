@@ -25,3 +25,5 @@
 [Five years 1969-1973/Rock 'n' roll suicide cd1](Rock 'n' roll suicide cd1)
 
 [Five years 1969-1973/Rock 'n' roll suicide cd2](Rock 'n' roll suicide cd2)
+
+[Five years 1969-1973/The rise and fall of Ziggy Stardust and the Spiders from Mars (2003 mix)](Five years 1969-1973/The rise and fall of Ziggy Stardust and the Spiders from Mars (2003 mix))
