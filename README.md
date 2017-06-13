@@ -1,4 +1,4 @@
-[v0.1.0](https://github.com/littleflute/David-Bowie/edit/master/README.md)
+[v0.1.1](https://github.com/littleflute/David-Bowie/edit/master/README.md)
 
 [Blackstar/cd](Blackstar/cd)
 
@@ -15,3 +15,6 @@
 [Five years 1969-1973/Aladdin Sane](Five years 1969-1973/Aladdin Sane)
 
 [Five years 1969-1973/Live Santa Monica '72](Five years 1969-1973/Live Santa Monica '72)
+
+[Five years 1969-1973/Pinups](Five years 1969-1973/Pinups)
+
